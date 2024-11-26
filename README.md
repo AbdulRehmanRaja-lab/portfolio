@@ -1,4 +1,5 @@
-# Junnior Data Analyst
+### Technical Skills
+Excel, Python, Pandas, SQL, Power Bi
 
 ### Education
 
