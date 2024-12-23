@@ -13,7 +13,7 @@ Technical Skils : Excel, Python, Pandas, SQL, Power BI
 
 2) ## E-commerce Sales Database
    Skills - SQL, Excel
-   [(Dashboard + SQL)]()
+   [(Dashboard + SQL)](https://github.com/AbdulRehmanRaja-lab/E-commerce-Sales-Database.git)
 
    
 This project involved analyzing an e-commerce sales dataset to uncover trends and derive actionable insights to optimize business performance. The analysis focused on understanding the relationship between product categories, pricing, marketing spend, and customer segments in driving revenue and sales.
