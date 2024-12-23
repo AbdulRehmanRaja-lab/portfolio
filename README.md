@@ -2,8 +2,8 @@
 Technical Skils : Excel, Python, Pandas, SQL, Power BI
 
 ## Education
- - Beaconhouse School System, Olevels | 2020-2022
- - JES Academy, Alevels | 2022-2024
+ - Beaconhouse School System, Olevels, Computer Science | 2020-2022
+ - JES Academy, Alevels, Computer Science | 2022-2024
 
 ## Certificate
 [IBM Data Analyst Professional Certificate](https://github.com/AbdulRehmanRaja-lab/IBM_Certificates.git)
