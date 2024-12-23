@@ -11,7 +11,7 @@ Technical Skils : Excel, Pandas, Matplotlib, SQL, Power BI
 ## Projects
 1) 
 
-2) ## E-commerce Sales Database
+## 2) E-commerce Sales Database
    Skills - SQL, Excel
    [(Dashboard + SQL)](https://github.com/AbdulRehmanRaja-lab/E-commerce-Sales-Database.git)
 
@@ -21,7 +21,7 @@ This project involved analyzing an e-commerce sales dataset to uncover trends an
 Key insights included identifying the most profitable product categories, understanding the effectiveness of marketing investments, and analyzing customer preferences to enhance targeting strategies.
 
    
-3) ## Sleep and Health Lifestyle
+## 3) Sleep and Health Lifestyle
    Skills - Juyter, Pandas, Excel
    [(Dashboard + Jupyter Notebook)](https://github.com/AbdulRehmanRaja-lab/Sleep-and-Helath-Lifestyle.git)
 
