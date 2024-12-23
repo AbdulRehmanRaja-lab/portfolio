@@ -9,7 +9,8 @@ Technical Skils : Excel, Pandas, Matplotlib, SQL, Power BI
 [IBM Data Analyst Professional Certificate](https://github.com/AbdulRehmanRaja-lab/IBM_Certificates.git)
 
 ## Projects
-1) 
+## 1) 
+
 
 ## 2) E-commerce Sales Database
    Skills - SQL, Excel
@@ -22,11 +23,17 @@ Key insights included identifying the most profitable product categories, unders
 
    
 ## 3) Sleep and Health Lifestyle
-   Skills - Juyter, Pandas, Excel
+   Skills - Juyter, Pandas, Matplotlib, Excel
    [(Dashboard + Jupyter Notebook)](https://github.com/AbdulRehmanRaja-lab/Sleep-and-Helath-Lifestyle.git)
 
    This project involved analyzing a dataset on sleep health and lifestyle habits to identify trends and provide actionable insights. The analysis focused on understanding the relationship between sleep duration, stress levels, physical activity, and sleep disorders across different demographics.
 
    The insights were presented through a professional dashboard featuring visualizations such as bar charts, line chart, and pie charts. The dashboard included a demographic overview, stress vs. sleep analysis, and a detailed look at the impact of physical activity on sleep quality.
 
-5)
+## 4)Riyadh Hotels
+Skills - SQL, Power BI
+[(Dahboard + SQL)]()
+
+This project involved analyzing a dataset of hotels in Riyadh to uncover trends and derive actionable insights for the hospitality industry. The analysis focused on understanding the relationship between hotel prices, ratings, and sources, as well as exploring geospatial data to visualize hotel locations.
+
+Key insights included identifying top-rated hotels, evaluating price and rating differences across various booking sources, and assessing price segmentation to understand affordability trends.
