@@ -28,7 +28,7 @@ Key insights included identifying the most profitable product categories, unders
    Skills - Juyter, Pandas, Matplotlib, Excel
    [(Dashboard + Jupyter Notebook)](https://github.com/AbdulRehmanRaja-lab/Sleep-and-Helath-Lifestyle.git)
 
-   (Publications)[WhatsApp Image 2024-12-23 at 1.10.39 PM (1).jpeg]
+   [Publications](WhatsApp Image 2024-12-23 at 1.10.39 PM (1).jpeg)
 
    This project involved analyzing a dataset on sleep health and lifestyle habits to identify trends and provide actionable insights. The analysis focused on understanding the relationship between sleep duration, stress levels, physical activity, and sleep disorders across different demographics.
 
@@ -38,7 +38,7 @@ Key insights included identifying the most profitable product categories, unders
 Skills - SQL, Power BI
 [(Dahboard + SQL)]()
 
-(Publications)[WhatsApp Image 2024-12-23 at 1.14.40 PM (1).jpeg]
+[Publications](WhatsApp Image 2024-12-23 at 1.14.40 PM (1).jpeg)
 
 This project involved analyzing a dataset of hotels in Riyadh to uncover trends and derive actionable insights for the hospitality industry. The analysis focused on understanding the relationship between hotel prices, ratings, and sources, as well as exploring geospatial data to visualize hotel locations.
 
