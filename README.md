@@ -1,5 +1,5 @@
 # Junior Data Analyst
-Technical Skils : Excel, Pandas, Matplotlib, SQL, Power BI
+#### Technical Skils : Excel, Pandas, Matplotlib, SQL, Power BI
 
 ## Education
  - Beaconhouse School System, Olevels, Computer Science | 2020-2022
