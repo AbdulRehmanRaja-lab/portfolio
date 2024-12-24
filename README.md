@@ -36,7 +36,7 @@ Key insights included identifying the most profitable product categories, unders
 
 ## 4)Riyadh Hotels
 Skills - SQL, Power BI
-[(Dahboard + SQL)]()
+[(Dahboard + SQL)](https://github.com/AbdulRehmanRaja-lab/Riyadh_Hotels.git)
 
 [Publications](WhatsApp Image 2024-12-23 at 1.14.40 PM (1).jpeg)
 
