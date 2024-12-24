@@ -6,7 +6,7 @@
  - JES Academy, Alevels, Computer Science | 2022-2024
 
 ## Certificate
-[IBM Data Analyst Professional Certificate](https://github.com/AbdulRehmanRaja-lab/IBM_Certificates.git)
+#### [IBM Data Analyst Professional Certificate](https://github.com/AbdulRehmanRaja-lab/IBM_Certificates.git)
 
 ## Projects
 ## 1) 
@@ -16,7 +16,7 @@
    Skills - SQL, Excel
    [(Dashboard + SQL)](https://github.com/AbdulRehmanRaja-lab/E-commerce-Sales-Database.git)
 
-   [Publications](https://github.com/AbdulRehmanRaja-lab/portfolio/blob/dce8479b06eaa6374eca67018edb591c3b01c4d6/WhatsApp%20Image%202024-12-23%20at%201.11.30%20PM%20(1).jpeg)
+   (https://github.com/AbdulRehmanRaja-lab/portfolio/blob/dce8479b06eaa6374eca67018edb591c3b01c4d6/WhatsApp%20Image%202024-12-23%20at%201.11.30%20PM%20(1).jpeg)
 
    
 This project involved analyzing an e-commerce sales dataset to uncover trends and derive actionable insights to optimize business performance. The analysis focused on understanding the relationship between product categories, pricing, marketing spend, and customer segments in driving revenue and sales.
@@ -44,6 +44,6 @@ This project involved analyzing a dataset of hotels in Riyadh to uncover trends 
 
 Key insights included identifying top-rated hotels, evaluating price and rating differences across various booking sources, and assessing price segmentation to understand affordability trends.
 
-### Socials
+## Socials
 #### [Linkedin](https://www.linkedin.com/in/abdul-rehman-dataanalyst/)
 #### [Github](https://github.com/AbdulRehmanRaja-lab)
