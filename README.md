@@ -4,7 +4,7 @@
 ## Education
  - Olevels, Computer Science | Beaconhouse School System (_2020-2022_)
  - Alevels, Computer Science | JES Academy (_2022-2024_)
- - BS, Data Science | Sir Syed University of Engineering and Technology (_Currently Enrolled_)
+ - BS, Data Science | Greenwich University (_Currently Enrolled_)
 
 ## Certificate
 #### [IBM Data Analyst Professional Certificate](https://github.com/AbdulRehmanRaja-lab/IBM_Certificates.git)
