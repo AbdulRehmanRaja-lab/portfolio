@@ -11,11 +11,17 @@
 
 ## Projects
 
-## 1) 
+## 1) Agricultural Land Suitability and Soil Quality
+Skills - SQL, Excel
+[(Dashboard + SQL)](https://github.com/AbdulRehmanRaja-lab/Agricultural-Land-Suitability-and-Soil-Quality.git)
+
+Analyzed agricultural data from Bangladesh divisions using SQL and Excel to uncover trends in soil types, rainfall, and crop suitability. Created interactive dashboards to visualize insights and identified key areas for agricultural improvement. The project showcased my ability to derive actionable insights from large datasets and present them effectively.
+
+
 
 
 ## 2) E-commerce Sales Database
-   Skills - SQL, Excel
+   Skills - SQL, Power Bi
    [(Dashboard + SQL)](https://github.com/AbdulRehmanRaja-lab/E-commerce-Sales-Database.git)
 
    
